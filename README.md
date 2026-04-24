@@ -3,12 +3,12 @@
 <div align="center">
 
 ![DevOps Banner](https://img.shields.io/badge/DevOps-Engineer-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white)
-![Workshop](https://img.shields.io/badge/Cloud_Train-DevOps_Workshop-00C4CC?style=for-the-badge)
+![DevOps Training](https://img.shields.io/badge/Cloud_Train-DevOps_DevOps Training-00C4CC?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Mini_Projects-12-orange?style=for-the-badge)
 ![Capstone](https://img.shields.io/badge/Capstone_Project-1-red?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Practice_Tests-10-green?style=for-the-badge)
 
-**Trained at [Cloud Train](https://www.thecloudtrain.com) | 7-Day Intensive DevOps Workshop**
+**Trained at [Cloud Train](https://www.thecloudtrain.com) | 5-Weekednd DevOps With AI Live Training**
 
 *Bridging the gap between Development and Operations through automation, containerization, and continuous delivery.*
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I have completed an intensive **7-Day DevOps Workshop** by **Cloud Train**, where I gained hands-on experience with industry-standard DevOps tools and practices. This portfolio showcases everything I learned, built, and practiced during the workshop — including **12 Mini Projects**, **1 Capstone Project**, and **10 Practice Tests**.
+I have completed an intensive **5-Week DevOps With AI Live Training** by **Cloud Train**, where I gained hands-on experience with industry-standard DevOps tools and practices. This portfolio showcases everything I learned, built, and practiced during the Training — including **12 Mini Projects**, **1 Capstone Project**, and **10 Practice Tests**.
 
 ---
 
@@ -484,7 +484,7 @@ sudo systemctl restart nagios
 
 ### 📌 Project Overview
 
-This capstone project combines **all 7 tools** learned in the workshop into one complete, automated pipeline. A developer pushes code to GitHub, and it automatically gets built, tested, containerized, deployed to Kubernetes, and monitored — without any manual steps.
+This capstone project combines **all 7 tools** learned in the DevOps Training into one complete, automated pipeline. A developer pushes code to GitHub, and it automatically gets built, tested, containerized, deployed to Kubernetes, and monitored — without any manual steps.
 
 ---
 
@@ -695,7 +695,7 @@ spec:
 
 ## 📝 10 Practice Tests
 
-> Use these to test your knowledge after each day of the workshop!
+> Use these to test your knowledge after each day of the DevOps Training!
 
 ---
 
@@ -1004,9 +1004,9 @@ Plan → Code (Git/GitHub) → Build (Jenkins) → Test (Jenkins)
 
 ---
 
-## 📜 Workshop Details
+## 📜 DevOps Training Details
 
-- **Workshop:** Cloud Train — DevOps Workshop (7 Days)
+- **DevOps Training:** Cloud Train — DevOps DevOps Training (7 Days)
 - **Platform:** [www.thecloudtrain.com](https://www.thecloudtrain.com)
 - **Topics Covered:** DevOps, Git/GitHub, Jenkins, Docker, Ansible, Kubernetes, Nagios
 - **Mini Projects Completed:** 12
@@ -1031,6 +1031,6 @@ Plan → Code (Git/GitHub) → Build (Jenkins) → Test (Jenkins)
 
 ⭐ **If you found this helpful, please star this repository!** ⭐
 
-*Built with ❤️ after completing the Cloud Train DevOps Workshop*
+*Built with ❤️ after completing the Cloud Train DevOps DevOps Training*
 
 </div>
